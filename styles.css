@@ -1,3 +1,39 @@
 body {
-	background:blue;
+	margin:auto;
+	text-align: center;
+	background-image: url(images/background.jpg);
+	color: #081c3d;
+}
+
+#PartsTable {
+	text-align: center;
+	font-size: 15px;
+	font-family: Helvetica;
+}
+
+#PartsTable table {
+	text-align: center;
+	margin: auto;
+	width: 500px;
+
+}
+
+.Steps ol {
+	text-align: left;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	border-style:  solid;
+	border-top-style: solid;
+	border-top-width: 30px;
+	border-top-color: orange;
+
+}
+
+.Questions {
+	font-family: Helvetica;
+
+}
+
+a:visited {
+	color:#FF69B4;
 }
